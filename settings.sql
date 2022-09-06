@@ -1,0 +1,3 @@
+CREATE DATABASE tinylib;
+CREATE USER tinyuser WITH PASSWORD 'sc4rl3tw';
+GRANT ALL PRIVILEGES ON DATABASE tinylib TO tinyuser;
