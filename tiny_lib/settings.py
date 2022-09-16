@@ -9,7 +9,6 @@ https://docs.djangoproject.com/en/4.1/topics/settings/
 For the full list of settings and their values, see
 https://docs.djangoproject.com/en/4.1/ref/settings/
 """
-
 from pathlib import Path
 import django_on_heroku
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -32,6 +31,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     # 'rest_framework_simplejwt',
+    'django_on_heroku',
     'corsheaders',
     'rest_framework',
     'tiny_app',
