@@ -14,5 +14,3 @@ django-cors-headers = "*"
 
 [requires]
 python_version = "3.9"
-
-pip3 freeze > requirements.txt 
