@@ -31,7 +31,6 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     # 'rest_framework_simplejwt',
-    'django_on_heroku',
     'corsheaders',
     'rest_framework',
     'tiny_app',
