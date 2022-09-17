@@ -2,6 +2,7 @@ asgiref==3.5.2
 astroid==2.9.3
 certifi==2022.9.14
 distlib==0.3.6
+django-cors-headers==3.11.0
 dj-database-url==1.0.0
 Django==4.1
 django-on-heroku==1.1.2
