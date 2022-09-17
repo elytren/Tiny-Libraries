@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 
 INSTALLED_APPS = [
     # 'rest_framework_simplejwt',
+    'django_google_maps',
     'corsheaders',
     'rest_framework',
     'tiny_app',

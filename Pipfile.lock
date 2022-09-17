@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "59bcd0ff3d794af2fac7e5ee983657e269c93be07bdf736a23606b45d246f421"
+            "sha256": "6668156b73ddaebb4d36d15426b39904c0a9e811c441eb21d2ae20fd8b3c1d22"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -46,6 +46,14 @@
             ],
             "index": "pypi",
             "version": "==3.13.0"
+        },
+        "django-google-maps": {
+            "hashes": [
+                "sha256:c0dbffbae929cde07666e2c5eba752596cd6fee12d39f50afd3940cc80a535a9",
+                "sha256:d8905f6c42892b8d429bfb89532b7d0eaa06ab53a850f3c3625440b0caa9099d"
+            ],
+            "index": "pypi",
+            "version": "==0.13.0"
         },
         "django-on-heroku": {
             "hashes": [
