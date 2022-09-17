@@ -1,1 +1,1 @@
-web: gunicorn Tiny-Libraries-Backend.wsgi
+web: gunicorn tiny_lib.wsgi
