@@ -109,6 +109,7 @@ CORS_ALLOW_HEADERS = [
 
 CORS_ALLOWED_ORIGINS = [
     'http://localhost:3000',
+    'https://freetradeadventures.netlify.app/'
 ]
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
