@@ -158,9 +158,9 @@ REST_FRAMEWORK = {
         'rest_framework.permissions.DjangoModelPermissionsOrAnonReadOnly',
         # 'rest_framework_simplejwt.authentication.JWTAuthentication',
     ],
-    'DEFAULT_AUTHENTICATION_CLASSES': [
-        'tiny_app.authentication.JWTAuthentication'
-    ],
+    # 'DEFAULT_AUTHENTICATION_CLASSES': [
+    #     'tiny_app.authentication.JWTAuthentication'
+    # ],
 }
 
 django_on_heroku.settings(locals())
